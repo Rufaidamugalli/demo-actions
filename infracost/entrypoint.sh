@@ -18,7 +18,7 @@ if [ -z "$DIRECTORIES" ]; then
   exit 0
 fi
 for x in $DIRECTORIES; do
-  cd "/github/workspace/$x"
+  cd "/github/workspace/infracost_demo/$x"
   terraform init
   terraform workspace new $DEPLOYMENT_ENV || echo true
   terraform workspace select $DEPLOYMENT_ENV
