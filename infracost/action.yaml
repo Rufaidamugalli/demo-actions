@@ -1,0 +1,8 @@
+name: "Infracost actions"
+description: "estimate our cost from terraform plan"
+runs:
+  using: "docker"
+  image: "Dockerfile"
+branding:
+  icon: 'terminal'
+  color: 'green'

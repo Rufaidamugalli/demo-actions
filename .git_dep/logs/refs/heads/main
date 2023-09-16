@@ -1,0 +1,19 @@
+0000000000000000000000000000000000000000 891056f4f58b130e747129e68d7e24d8d92a1492 Rufaida Mugalli <rmugalli@Liquids-MacBook-Pro.local> 1694891712 +0200	commit (initial): first commit
+891056f4f58b130e747129e68d7e24d8d92a1492 891056f4f58b130e747129e68d7e24d8d92a1492 Rufaida Mugalli <rmugalli@Liquids-MacBook-Pro.local> 1694891712 +0200	Branch: renamed refs/heads/master to refs/heads/main
+891056f4f58b130e747129e68d7e24d8d92a1492 8a34173d013b7c06b2db0f714042ff7e2f2b64b8 Rufaida Mugalli <rmugalli@Liquids-MacBook-Pro.local> 1694891737 +0200	commit: seprate action from workflow
+8a34173d013b7c06b2db0f714042ff7e2f2b64b8 b838c67d4480623a9d80f8c9618144c792542d43 Rufaida Mugalli <rmugalli@Liquids-MacBook-Pro.local> 1694894942 +0200	commit: refactor
+b838c67d4480623a9d80f8c9618144c792542d43 0a677b21602e4e507466a853aacf718b6dd4642f Rufaida Mugalli <rmugalli@Liquids-MacBook-Pro.local> 1694895036 +0200	commit: refactor
+0a677b21602e4e507466a853aacf718b6dd4642f 22643bce4822f84e034bfab041a78e400eb09eab Rufaida Mugalli <rmugalli@Liquids-MacBook-Pro.local> 1694896645 +0200	commit: refactor
+22643bce4822f84e034bfab041a78e400eb09eab 739cc8d9f84a6acdede175aa7a7c421db3adddac Rufaida Mugalli <rmugalli@Liquids-MacBook-Pro.local> 1694896924 +0200	commit: refactor
+739cc8d9f84a6acdede175aa7a7c421db3adddac f62d5b8c4d7ff3f3f56ccb7e0b0e296fa50f5248 Rufaida Mugalli <rmugalli@Liquids-MacBook-Pro.local> 1694897027 +0200	commit: refactor
+f62d5b8c4d7ff3f3f56ccb7e0b0e296fa50f5248 764679a92718a81b7d46d19a0c7161edde11db29 Rufaida Mugalli <rmugalli@Liquids-MacBook-Pro.local> 1694897619 +0200	commit: update version
+764679a92718a81b7d46d19a0c7161edde11db29 f09e263875fde811f36b0ff65e80304ad497826e Rufaida Mugalli <rmugalli@Liquids-MacBook-Pro.local> 1694897737 +0200	commit: update version2
+f09e263875fde811f36b0ff65e80304ad497826e 1c1d42e07b9160417c4fb62042cfa3b5fb7949fa Rufaida Mugalli <rmugalli@Liquids-MacBook-Pro.local> 1694897846 +0200	commit: add --format json
+1c1d42e07b9160417c4fb62042cfa3b5fb7949fa 6e28ac3f80c45eb6fbb6debdb54727cbb844444a Rufaida Mugalli <rmugalli@Liquids-MacBook-Pro.local> 1694898336 +0200	commit: add --format json
+6e28ac3f80c45eb6fbb6debdb54727cbb844444a 2092f22be9293a629ac70ff9e7257116f7da5667 Rufaida Mugalli <rmugalli@Liquids-MacBook-Pro.local> 1694898611 +0200	commit: refactor
+2092f22be9293a629ac70ff9e7257116f7da5667 8f881167e864860402bb1f6eabc0e501ecb0a4f4 Rufaida Mugalli <rmugalli@Liquids-MacBook-Pro.local> 1694898863 +0200	commit: refactor
+8f881167e864860402bb1f6eabc0e501ecb0a4f4 2f59ced194ee910fb45de486e1eccd4e6a42278e Rufaida Mugalli <rmugalli@Liquids-MacBook-Pro.local> 1694899913 +0200	commit: refactor
+2f59ced194ee910fb45de486e1eccd4e6a42278e bf1c1d82ac66fc925c6c740a7331356bb6ff0a15 Rufaida Mugalli <rmugalli@Liquids-MacBook-Pro.local> 1694900444 +0200	commit: refactor
+bf1c1d82ac66fc925c6c740a7331356bb6ff0a15 cc9ecb62792062d4017e4332a1c2b3c55f164398 Rufaida Mugalli <rmugalli@Liquids-MacBook-Pro.local> 1694900586 +0200	commit: refactor
+cc9ecb62792062d4017e4332a1c2b3c55f164398 deafb09da382d8b76c12cb3c0b4fc2b734023218 Rufaida Mugalli <rmugalli@Liquids-MacBook-Pro.local> 1694900766 +0200	commit: refactor
+deafb09da382d8b76c12cb3c0b4fc2b734023218 10db611b5fc4646a86e7070554421a970afc1794 Rufaida Mugalli <rmugalli@Liquids-MacBook-Pro.local> 1694901139 +0200	commit: refactor
